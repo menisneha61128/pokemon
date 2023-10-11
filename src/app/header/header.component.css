@@ -1,0 +1,21 @@
+header {
+    padding: 20px 0px;
+    color: white;
+    background-color: rgb(18, 130, 222);
+    justify-content: center;
+}
+header h1 {
+    text-transform: uppercase;
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    
+}
+img {
+    height: 50px;
+    width: 75px;
+    border: none;
+    border-radius: 26px;
+}
