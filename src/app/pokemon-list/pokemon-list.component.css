@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    
   }
   
   body {
@@ -7,6 +8,8 @@
   }
   .back{
     background-color: rgb(144, 198, 246);
+    margin-top: 90px;
+    overflow-y: auto;
   }
   .column {
     float: left;
